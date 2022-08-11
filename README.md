@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⏳ Atualmente estudo Back-end, mais especificamente Node.js</p>
+<p align="left">⏳ Atualmente estudo Back-end, mais especificamente Arquitetura de Software</p>
 
 ###
 
