@@ -1,12 +1,8 @@
+<a href="https://imgur.com/f9GXDdJ"><img src="https://i.imgur.com/f9GXDdJ.png" title="source: imgur.com" /></a>
+
+###
+
 <h1 align="center">Oi! Sou Daniel.</h1>
-
-###
-
-<h2 align="center">Estudo Desenvolvimento de Software na Trybe</h2>
-
-###
-
-<img align="right" height="200" src="https://i.giphy.com/media/17b875GGvV9m9sLmNc/giphy.webp"  />
 
 ###
 
@@ -49,11 +45,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgur.com/DUzDsgP.png"  />
-
-###
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=tostesdaniel" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=tostesdaniel" height="150" alt="languages graph"  />
 </div>
