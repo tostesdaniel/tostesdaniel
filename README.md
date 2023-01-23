@@ -6,18 +6,6 @@
 
 ###
 
-<p align="left">⏳ Atualmente estudo Back-end, mais especificamente Arquitetura de Software</p>
-
-###
-
-<p align="left">📖 Estudo diariamente para me tornar Desenvolvedor Full Stack</p>
-
-###
-
-<p align="left">🏆 Busco gerar valor, obter e compartilhar conhecimentos</p>
-
-###
-
 <br clear="both">
 
 <h3 align="center">🖥️ Tecnologias</h3>
