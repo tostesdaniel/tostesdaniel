@@ -1,61 +1,58 @@
-<a href="https://imgur.com/f9GXDdJ"><img src="https://i.imgur.com/f9GXDdJ.png" title="source: imgur.com" /></a>
+# Hey, I'm Daniel
 
-###
+## About me
 
-<h1 align="center">Oi! Sou Daniel.</h1>
+I'm Daniel Tostes, a software developer based in Brazil, specializing in fullstack development with a strong passion for technology and games. My goal is to leverage my skills to create innovative solutions that make a difference.
 
-###
+I am currently working on [Rust Conveyor Filters](https://github.com/tostesdaniel/rust-conveyor-filters), an application designed for Rust players to emulate conveyor filter creation, allowing for the saving, sharing, and exporting of filters. This app features a conveyor builder, a directory of public filters, the ability to import existing in-game filters, and export functionality.
 
-<br clear="both">
+Check it out and feel free to connect with me for potential collaborations!
 
-<h3 align="center">🖥️ Tecnologias</h3>
+---
 
-###
+### 🖥️ My Stack
 
-<br clear="both">
+**Technologies:**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Node.js
+- Express
+- MySQL
+- Postgres
+- MongoDB
+- AWS
+- Jest
+- Redux
+- HTML5
+- CSS3
+- Git
+- Docker
 
-###
+![Next.js](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg&w=32&h=32)
+![React](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg&w=32&h=32)
+![TypeScript](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg&w=32&h=32)
+![JavaScript](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg&w=32&h=32)
+![TailwindCSS](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg&w=32&h=32)
+![Node.js](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg&w=32&h=32)
+![Express](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg&w=32&h=32)
+![MySQL](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg&w=32&h=32)
+![PostgreSQL](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg&w=32&h=32)
+![MongoDB](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg&w=32&h=32)
+![AWS](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg&w=32&h=32)
+![Jest](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg&w=32&h=32)
+![Redux](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg&w=32&h=32)
+![HTML5](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg&w=32&h=32)
+![CSS3](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg&w=32&h=32)
+![Git](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg&w=32&h=32)
+![Docker](https://images.weserv.nl/?url=cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg&w=32&h=32)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=true&username=tostesdaniel" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&username=tostesdaniel" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 📩 Reach out
 
-<h3 align="center">📩 Contate-me</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/danieltostes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:tostes.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/ohtosttnz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/danieltostes/)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:tostes.dev@gmail.com)
